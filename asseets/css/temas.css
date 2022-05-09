@@ -4,8 +4,8 @@ body{
 }
 
 .foto-perfil{
-    height: 100%;
-    width: auto;
+    height: 250%;
+    width: 150px;
     max-width: 100%;
     border-radius: 100%;
 }
