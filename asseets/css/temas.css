@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-size: 20px;
 }
 
 .foto-perfil{
@@ -10,5 +11,33 @@ body{
     border-radius: 100%;
 }
 
+.bannerPrincipal {
+    background-image: url('../img/computador.jpg');
+}
+.corSecundaria {
+    background-color: #144679;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#0000!important;
+}
 
-
+.icones {
+    padding-left: 5px;
+}
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:#fff;
+}
+.titulosVerdes{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:#18bc9c;
+}
